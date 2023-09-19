@@ -20,4 +20,4 @@ A project with two simple pages, made for practicing my skills in HTML and CSS.
 
 ## Preview
 
-[Website preview](https://simple-frontend-project-from-alura-course.vercel.app/)https://simple-frontend-project-from-alura-course.vercel.app/
+[Website preview](https://simple-frontend-project-from-alura-course.vercel.app/)
